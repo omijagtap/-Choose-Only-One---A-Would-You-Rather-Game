@@ -1,0 +1,1025 @@
+[
+  {
+    "question": "Which do you prefer?",
+    "option1": {
+      "text": "Coffee",
+      "percentage": 35
+    },
+    "option2": {
+      "text": "Tea",
+      "percentage": 65
+    },
+    "correctAnswer": ""
+  },
+  {
+    "question": "What's your favorite type of movie?",
+    "option1": {
+      "text": "Action",
+      "percentage": 45
+    },
+    "option2": {
+      "text": "Comedy",
+      "percentage": 55
+    },
+    "correctAnswer": ""
+  },
+  {
+    "question": "Do you prefer sunny or rainy days?",
+    "option1": {
+      "text": "Sunny",
+      "percentage": 30
+    },
+    "option2": {
+      "text": "Rainy",
+      "percentage": 70
+    },
+    "correctAnswer": ""
+  },
+  {
+    "question": "Choose a vacation destination:",
+    "option1": {
+      "text": "Beach",
+      "percentage": 60
+    },
+    "option2": {
+      "text": "Mountains",
+      "percentage": 40
+    },
+    "correctAnswer": ""
+  },
+  {
+    "question": "Which pet do you prefer?",
+    "option1": {
+      "text": "Dog",
+      "percentage": 80
+    },
+    "option2": {
+      "text": "Cat",
+      "percentage": 20
+    },
+    "correctAnswer": ""
+  },
+  {
+    "question": "What's your preferred mode of transportation?",
+    "option1": {
+      "text": "Car",
+      "percentage": 70
+    },
+    "option2": {
+      "text": "Bicycle",
+      "percentage": 30
+    },
+    "correctAnswer": ""
+  },
+  {
+    "question": "Choose a color:",
+    "option1": {
+      "text": "Blue",
+      "percentage": 40
+    },
+    "option2": {
+      "text": "Red",
+      "percentage": 60
+    },
+    "correctAnswer": ""
+  },
+  {
+    "question": "What's your preferred season?",
+    "option1": {
+      "text": "Spring",
+      "percentage": 55
+    },
+    "option2": {
+      "text": "Fall",
+      "percentage": 45
+    },
+    "correctAnswer": ""
+  },
+  {
+    "question": "Do you prefer reading fiction or non-fiction?",
+    "option1": {
+      "text": "Fiction",
+      "percentage": 65
+    },
+    "option2": {
+      "text": "Non-Fiction",
+      "percentage": 35
+    },
+    "correctAnswer": ""
+  },
+  {
+    "question": "Which do you prefer for breakfast?",
+    "option1": {
+      "text": "Pancakes",
+      "percentage": 25
+    },
+    "option2": {
+      "text": "Omelette",
+      "percentage": 75
+    },
+    "correctAnswer": ""
+
+  },
+  {
+    "question": "Would you rather be in jail for five years or be in a coma for a decade?",
+    "option1": {
+      "text": "Jail for five years",
+      "percentage": 40
+    },
+    "option2": {
+      "text": "Coma for a decade",
+      "percentage": 60
+    },
+    "correctAnswer": ""
+  },
+
+  {
+    "question": "Would you rather be chronically under-dressed or overdressed?",
+    "option1": {
+      "text": "Under-dressed",
+      "percentage": 45
+    },
+    "option2": {
+      "text": "Overdressed",
+      "percentage": 55
+    },
+    "correctAnswer": ""
+  },
+
+  {
+    "question": "Would you rather lose your sight or your memories?",
+    "option1": {
+      "text": "Lose sight",
+      "percentage": 35
+    },
+    "option2": {
+      "text": "Lose memories",
+      "percentage": 65
+    },
+    "correctAnswer": ""
+  },
+  {
+    "question": "Would you rather have universal respect or unlimited power?",
+    "option1": {
+      "text": "Universal respect",
+      "percentage": 70
+    },
+    "option2": {
+      "text": "Unlimited power",
+      "percentage": 30
+    },
+    "correctAnswer": ""
+  },
+
+  {
+    "question": "Would you rather swim in a pool full of Nutella or a pool full of maple syrup?",
+    "option1": {
+      "text": "Swim in Nutella",
+      "percentage": 55
+    },
+    "option2": {
+      "text": "Swim in maple syrup",
+      "percentage": 45
+    },
+    "correctAnswer": ""
+  },
+  {
+    "question": "Would you rather labor under a hot sun or extreme cold?",
+    "option1": {
+      "text": "Labor under hot sun",
+      "percentage": 40
+    },
+    "option2": {
+      "text": "Labor under extreme cold",
+      "percentage": 60
+    },
+    "correctAnswer": ""
+  },
+  {
+    "question": "Would you rather buy 10 things you don't need every time you go shopping or always forget the one thing that you need when you go to the store?",
+    "option1": {
+      "text": "Buy 10 things you don't need",
+      "percentage": 55
+    },
+    "option2": {
+      "text": "Always forget the one thing you need",
+      "percentage": 45
+    },
+    "correctAnswer": ""
+  },
+  {
+    "question": "Would you rather never be able to go out during the day or never be able to go out at night?",
+    "option1": {
+      "text": "Never go out during the day",
+      "percentage": 30
+    },
+    "option2": {
+      "text": "Never go out at night",
+      "percentage": 70
+    },
+    "correctAnswer": ""
+  },
+  {
+    "question": "Would you rather have a personal maid or a personal chef?",
+    "option1": {
+      "text": "Personal maid",
+      "percentage": 60
+    },
+    "option2": {
+      "text": "Personal chef",
+      "percentage": 40
+    },
+    "correctAnswer": ""
+  },
+  {
+    "question": "Would you rather be 11 feet tall or nine inches tall?",
+    "option1": {
+      "text": "Be 11 feet tall",
+      "percentage": 35
+    },
+    "option2": {
+      "text": "Be nine inches tall",
+      "percentage": 65
+    },
+    "correctAnswer": ""
+  },
+
+  {
+    "question": "Would you rather vomit on your hero or have your hero vomit on you?",
+    "option1": {
+      "text": "Vomit on your hero",
+      "percentage": 40
+    },
+    "option2": {
+      "text": "Have your hero vomit on you",
+      "percentage": 60
+    },
+    "correctAnswer": ""
+  },
+  {
+    "question": "Would you rather be royalty 1,000 years ago or an average person today?",
+    "option1": {
+      "text": "Be royalty 1,000 years ago",
+      "percentage": 30
+    },
+    "option2": {
+      "text": "Be an average person today",
+      "percentage": 70
+    },
+    "correctAnswer": ""
+  },
+  {
+    "question": "Would you rather lounge by the pool or on the beach?",
+    "option1": {
+      "text": "Lounge by the pool",
+      "percentage": 60
+    },
+    "option2": {
+      "text": "Lounge on the beach",
+      "percentage": 40
+    },
+    "correctAnswer": ""
+  },
+
+  {
+    "question": "Would you rather cuddle a koala or pal around with a panda?",
+    "option1": {
+      "text": "Cuddle a koala",
+      "percentage": 55
+    },
+    "option2": {
+      "text": "Pal around with a panda",
+      "percentage": 45
+    },
+    "correctAnswer": ""
+  },
+
+  {
+    "question": "Would you rather always be 10 minutes late or always be 20 minutes early?",
+    "option1": {
+      "text": "Always be 10 minutes late",
+      "percentage": 40
+    },
+    "option2": {
+      "text": "Always be 20 minutes early",
+      "percentage": 60
+    },
+    "correctAnswer": ""
+  },
+
+  {
+    "question": "Would you rather find a rat in your kitchen or a roach in your bed?",
+    "option1": {
+      "text": "Find a rat in your kitchen",
+      "percentage": 50
+    },
+    "option2": {
+      "text": "Find a roach in your bed",
+      "percentage": 50
+    },
+    "correctAnswer": ""
+  },
+
+  {
+    "question": "Would you rather always have a full phone battery or a full gas tank?",
+    "option1": {
+      "text": "Always have a full phone battery",
+      "percentage": 60
+    },
+    "option2": {
+      "text": "Always have a full gas tank",
+      "percentage": 40
+    },
+    "correctAnswer": ""
+  },
+
+  {
+    "question": "Would you rather drink from a toilet or pee in a litter box?",
+    "option1": {
+      "text": "Drink from a toilet",
+      "percentage": 35
+    },
+    "option2": {
+      "text": "Pee in a litter box",
+      "percentage": 65
+    },
+    "correctAnswer": ""
+  },
+
+  {
+    "question": "Would you rather never eat watermelon ever again or be forced to eat watermelon with every meal?",
+    "option1": {
+      "text": "Never eat watermelon ever again",
+      "percentage": 45
+    },
+    "option2": {
+      "text": "Be forced to eat watermelon with every meal",
+      "percentage": 55
+    }
+  },
+
+
+
+
+    {
+      "question": "Would you rather have a third ear or a third eye?",
+      "option1": {
+        "text": "Third ear",
+        "percentage": 30
+      },
+      "option2": {
+        "text": "Third eye",
+        "percentage": 70
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather have $1 million now or $5,000 a week for the rest of your life?",
+      "option1": {
+        "text": "$1 million now",
+        "percentage": 45
+      },
+      "option2": {
+        "text": "$5,000 a week",
+        "percentage": 55
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather binge-watch Sex And the City or Girls?",
+      "option1": {
+        "text": "Sex And the City",
+        "percentage": 60
+      },
+      "option2": {
+        "text": "Girls",
+        "percentage": 40
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather be rich working a job you hate or poor working a job you love?",
+      "option1": {
+        "text": "Rich, job I hate",
+        "percentage": 35
+      },
+      "option2": {
+        "text": "Poor, job I love",
+        "percentage": 65
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather wear real fur or fake jewels?",
+      "option1": {
+        "text": "Real fur",
+        "percentage": 25
+      },
+      "option2": {
+        "text": "Fake jewels",
+        "percentage": 75
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather work a high-paying job that you hate or your dream job with only just enough money for rent, food and utilities?",
+      "option1": {
+        "text": "High-paying job I hate",
+        "percentage": 40
+      },
+      "option2": {
+        "text": "Dream job, just enough money",
+        "percentage": 60
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather wake up naked in a forest five miles from home or in your underwear at work?",
+      "option1": {
+        "text": "Naked in a forest",
+        "percentage": 55
+      },
+      "option2": {
+        "text": "In underwear at work",
+        "percentage": 45
+      },
+      "correctAnswer": ""
+    },
+ 
+    {
+      "question": "Would you rather never eat your favorite food for the rest of your life or only eat your favorite food?",
+      "option1": {
+        "text": "Never eat favorite food",
+        "percentage": 60
+      },
+      "option2": {
+        "text": "Only eat favorite food",
+        "percentage": 40
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather be able to erase your own memories or be able to erase someone else's memories?",
+      "option1": {
+        "text": "Erase own memories",
+        "percentage": 55
+      },
+      "option2": {
+        "text": "Erase someone else's memories",
+        "percentage": 45
+      },
+      "correctAnswer": ""
+    },
+
+    {
+      "question": "Would you rather have a rap battle against Nicki Minaj or Lizzo?",
+      "option1": {
+        "text": "Rap battle against Nicki Minaj",
+        "percentage": 40
+      },
+      "option2": {
+        "text": "Rap battle against Lizzo",
+        "percentage": 60
+      },
+      "correctAnswer": ""
+    },
+  
+    {
+      "question": "Would you rather give up coffee or soda forever?",
+      "option1": {
+        "text": "Give up coffee forever",
+        "percentage": 60
+      },
+      "option2": {
+        "text": "Give up soda forever",
+        "percentage": 40
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather find a $100 bill floating in a public toilet or a $20 bill in your own pocket?",
+      "option1": {
+        "text": "$100 bill in public toilet",
+        "percentage": 30
+      },
+      "option2": {
+        "text": "$20 bill in own pocket",
+        "percentage": 70
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather wear nothing but neon orange or neon green for an entire year?",
+      "option1": {
+        "text": "Neon orange for a year",
+        "percentage": 40
+      },
+      "option2": {
+        "text": "Neon green for a year",
+        "percentage": 60
+      },
+      "correctAnswer": ""
+    },
+ 
+    {
+      "question": "Would you rather sell all of your possessions or sell one of your organs?",
+      "option1": {
+        "text": "Sell all of your possessions",
+        "percentage": 35
+      },
+      "option2": {
+        "text": "Sell one of your organs",
+        "percentage": 65
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather clean a toilet with your toothbrush or a floor with your tongue?",
+      "option1": {
+        "text": "Clean a toilet with your toothbrush",
+        "percentage": 25
+      },
+      "option2": {
+        "text": "Clean a floor with your tongue",
+        "percentage": 75
+      },
+      "correctAnswer": ""
+    },
+
+    {
+      "question": "Would you rather be reincarnated as a fly or just stop existing when you die?",
+      "option1": {
+        "text": "Be reincarnated as a fly",
+        "percentage": 30
+      },
+      "option2": {
+        "text": "Just stop existing when you die",
+        "percentage": 70
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather be serenaded by Justin Bieber or Justin Timberlake?",
+      "option1": {
+        "text": "Be serenaded by Justin Bieber",
+        "percentage": 45
+      },
+      "option2": {
+        "text": "Be serenaded by Justin Timberlake",
+        "percentage": 55
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather be unable to close any door once it's open or be unable to open any door once it's closed?",
+      "option1": {
+        "text": "Unable to close any door once it's open",
+        "percentage": 60
+      },
+      "option2": {
+        "text": "Unable to open any door once it's closed",
+        "percentage": 40
+      },
+      "correctAnswer": ""
+    },
+  
+    {
+      "question": "Would you rather have a tennis lesson from Serena Williams or a soccer lesson from Meghan Rapinoe?",
+      "option1": {
+        "text": "Tennis lesson from Serena Williams",
+        "percentage": 60
+      },
+      "option2": {
+        "text": "Soccer lesson from Meghan Rapinoe",
+        "percentage": 40
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather have a permanent unibrow or no eyebrows at all?",
+      "option1": {
+        "text": "Permanent unibrow",
+        "percentage": 25
+      },
+      "option2": {
+        "text": "No eyebrows at all",
+        "percentage": 75
+      },
+      "correctAnswer": ""
+    },
+
+    {
+      "question": "Would you rather never eat cookies ever again or only ever drink water?",
+      "option1": {
+        "text": "Never eat cookies ever again",
+        "percentage": 55
+      },
+      "option2": {
+        "text": "Only ever drink water",
+        "percentage": 45
+      },
+      "correctAnswer": ""
+    },
+   
+    {
+      "question": "Would you rather be criticized or be ignored?",
+      "option1": {
+        "text": "Be criticized",
+        "percentage": 45
+      },
+      "option2": {
+        "text": "Be ignored",
+        "percentage": 55
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather work alongside Dwight Schrute or Homer Simpson?",
+      "option1": {
+        "text": "Work alongside Dwight Schrute",
+        "percentage": 60
+      },
+      "option2": {
+        "text": "Work alongside Homer Simpson",
+        "percentage": 40
+      },
+      "correctAnswer": ""
+    },
+ 
+    {
+      "question": "Would you rather eat an undercooked meal or a burnt meal?",
+      "option1": {
+        "text": "Eat an undercooked meal",
+        "percentage": 30
+      },
+      "option2": {
+        "text": "Eat a burnt meal",
+        "percentage": 70
+      },
+      "correctAnswer": ""
+    },
+
+  
+    {
+      "question": "Would you rather star in a Star Warsor a Marvel film?",
+      "option1": {
+        "text": "Star in a Star Wars film",
+        "percentage": 55
+      },
+      "option2": {
+        "text": "Star in a Marvel film",
+        "percentage": 45
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather wear heels to the gym or sneakers to a wedding?",
+      "option1": {
+        "text": "Wear heels to the gym",
+        "percentage": 25
+      },
+      "option2": {
+        "text": "Wear sneakers to a wedding",
+        "percentage": 75
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather give up brushing your hair or give us brushing your teeth?",
+      "option1": {
+        "text": "Give up brushing your hair",
+        "percentage": 40
+      },
+      "option2": {
+        "text": "Give up brushing your teeth",
+        "percentage": 60
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather master every musical instrument or every type of sport?",
+      "option1": {
+        "text": "Master every musical instrument",
+        "percentage": 55
+      },
+      "option2": {
+        "text": "Master every type of sport",
+        "percentage": 45
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather always have wet socks or a small rock in your shoe?",
+      "option1": {
+        "text": "Always have wet socks",
+        "percentage": 30
+      },
+      "option2": {
+        "text": "Have a small rock in your shoe",
+        "percentage": 70
+      },
+      "correctAnswer": ""
+    },
+
+    {
+      "question": "Would you rather be the class clown or the teacher's pet?",
+      "option1": {
+        "text": "Be the class clown",
+        "percentage": 60
+      },
+      "option2": {
+        "text": "Be the teacher's pet",
+        "percentage": 40
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather bathe in the dishwater or wash dishes in your bathwater?",
+      "option1": {
+        "text": "Bathe in the dishwater",
+        "percentage": 30
+      },
+      "option2": {
+        "text": "Wash dishes in your bathwater",
+        "percentage": 70
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather show up to a job interview with stained pants or pit stains?",
+      "option1": {
+        "text": "Show up with stained pants",
+        "percentage": 40
+      },
+      "option2": {
+        "text": "Show up with pit stains",
+        "percentage": 60
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather be allergic to chocolate or allergic to cellphones?",
+      "option1": {
+        "text": "Be allergic to chocolate",
+        "percentage": 70
+      },
+      "option2": {
+        "text": "Be allergic to cellphones",
+        "percentage": 30
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather lose your wallet or your phone?",
+      "option1": {
+        "text": "Lose your wallet",
+        "percentage": 55
+      },
+      "option2": {
+        "text": "Lose your phone",
+        "percentage": 45
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather be the first to die or the last to die in a disaster?",
+      "option1": {
+        "text": "Be the first to die in a disaster",
+        "percentage": 40
+      },
+      "option2": {
+        "text": "Be the last to die in a disaster",
+        "percentage": 60
+      },
+      "correctAnswer": ""
+    },
+
+    {
+      "question": "Would you rather lose the ability to read or lose the ability to speak?",
+      "option1": {
+        "text": "Lose the ability to read",
+        "percentage": 40
+      },
+      "option2": {
+        "text": "Lose the ability to speak",
+        "percentage": 60
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather be a reverse centaur or a reverse mermaid/merman?",
+      "option1": {
+        "text": "Be a reverse centaur",
+        "percentage": 45
+      },
+      "option2": {
+        "text": "Be a reverse mermaid/merman",
+        "percentage": 55
+      },
+      "correctAnswer": ""
+    },
+
+    {
+      "question": "Would you rather never have to work again or never have to sleep again (you won't feel tired or suffer negative health effects)?",
+      "option1": {
+        "text": "Never have to work again",
+        "percentage": 35
+      },
+      "option2": {
+        "text": "Never have to sleep again",
+        "percentage": 65
+      },
+      "correctAnswer": ""
+    },
+
+    {
+      "question": "Would you rather have a personal chef or a personal masseuse?",
+      "option1": {
+        "text": "Have a personal chef",
+        "percentage": 55
+      },
+      "option2": {
+        "text": "Have a personal masseuse",
+        "percentage": 45
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather be able to teleport anywhere or be able to read minds?",
+      "option1": {
+        "text": "Be able to teleport anywhere",
+        "percentage": 60
+      },
+      "option2": {
+        "text": "Be able to read minds",
+        "percentage": 40
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather be a kid your whole life or an adult your whole life?",
+      "option1": {
+        "text": "Be a kid your whole life",
+        "percentage": 45
+      },
+      "option2": {
+        "text": "Be an adult your whole life",
+        "percentage": 55
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather be a wizard or a vampire?",
+      "option1": {
+        "text": "Be a wizard",
+        "percentage": 55
+      },
+      "option2": {
+        "text": "Be a vampire",
+        "percentage": 45
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather only be able to whisper or only be able to shout?",
+      "option1": {
+        "text": "Only be able to whisper",
+        "percentage": 35
+      },
+      "option2": {
+        "text": "Only be able to shout",
+        "percentage": 65
+      },
+      "correctAnswer": ""
+    },
+
+    {
+      "question": "Would you rather be able to speak any language fluently or be able to communicate with animals?",
+      "option1": {
+        "text": "Be able to speak any language fluently",
+        "percentage": 65
+      },
+      "option2": {
+        "text": "Be able to communicate with animals",
+        "percentage": 35
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather be the best player on a losing team or the worst player on a winning team?",
+      "option1": {
+        "text": "Be the best player on a losing team",
+        "percentage": 40
+      },
+      "option2": {
+        "text": "Be the worst player on a winning team",
+        "percentage": 60
+      },
+      "correctAnswer": ""
+    },
+ 
+    {
+      "question": "Would you rather be able to stop time or fly?",
+      "option1": {
+        "text": "Be able to stop time",
+        "percentage": 60
+      },
+      "option2": {
+        "text": "Be able to fly",
+        "percentage": 40
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather never have to clean a bathroom again or never have to do dishes again?",
+      "option1": {
+        "text": "Never have to clean a bathroom again",
+        "percentage": 55
+      },
+      "option2": {
+        "text": "Never have to do dishes again",
+        "percentage": 45
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather fight 100 duck-sized horses or one horse-sized duck?",
+      "option1": {
+        "text": "Fight 100 duck-sized horses",
+        "percentage": 60
+      },
+      "option2": {
+        "text": "Fight one horse-sized duck",
+        "percentage": 40
+      },
+      "correctAnswer": ""
+    },
+ 
+    {
+      "question": "Would you rather have a rewind button or a pause button on your life?",
+      "option1": {
+        "text": "Have a rewind button",
+        "percentage": 40
+      },
+      "option2": {
+        "text": "Have a pause button",
+        "percentage": 60
+      },
+      "correctAnswer": ""
+    },
+ 
+  
+    {
+      "question": "Would you rather be able to control fire or water?",
+      "option1": {
+        "text": "Be able to control fire",
+        "percentage": 55
+      },
+      "option2": {
+        "text": "Be able to control water",
+        "percentage": 45
+      },
+      "correctAnswer": ""
+    },
+   
+    
+    {
+      "question": "Would you rather be able to read or be able to read minds (but be illiterate)?",
+      "option1": {
+        "text": "Be able to read",
+        "percentage": 60
+      },
+      "option2": {
+        "text": "Be able to read minds (but be illiterate)",
+        "percentage": 40
+      },
+      "correctAnswer": ""
+    },
+    {
+      "question": "Would you rather be able to speak with animals or speak all foreign languages?",
+      "option1": {
+        "text": "Be able to speak with animals",
+        "percentage": 55
+      },
+      "option2": {
+        "text": "Be able to speak all foreign languages",
+        "percentage": 45
+      },
+      "correctAnswer": ""
+    },
+ 
+ 
+    {
+      "question": "Would you rather be feared by all or loved by all?",
+      "option1": {
+        "text": "Be feared by all",
+        "percentage": 30
+      },
+      "option2": {
+        "text": "Be loved by all",
+        "percentage": 70
+      },
+      "correctAnswer": ""
+    }
+    
+]
